@@ -1,0 +1,40 @@
+.link {
+    text-align: right;
+}
+
+.hair {
+    text-align: center;
+    font-size: 80px;
+    font-display: 30%;
+    padding: 80px;
+}
+
+.bar {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    width: 40%;
+    padding: 8px;
+    text-align: center;
+    border-style: 1px solid;
+    border-radius: 10px;
+}
+
+.submit {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+button {
+    padding: 12px;
+    border-radius: 10px;
+    border-color: blue;
+}
+
+button:hover {
+    color: white;
+    background-color: blue;
+}
